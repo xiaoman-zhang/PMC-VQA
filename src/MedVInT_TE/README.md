@@ -16,6 +16,10 @@ Download from [Huggingface](https://huggingface.co/datasets/xmcmic/PMC-VQA/) and
 
 sh train.sh
 
+### 4. Finetuning
+
+sh finetune.sh
+
 **Default**: MedVInT-TE-Transformer, LLaMA-ENC, CLIP for Multiple Choice task
 
 Note that to run MedVInT-TE with PMCCLIP, you should first download pmcclip pretrained model from [PMC-CLIP](https://github.com/WeixiongLin/PMC-CLIP), and save to `./models/pmc_clip`
