@@ -1,6 +1,9 @@
 # PMC-VQA
 The official codes for [**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**](https://arxiv.org/pdf/2305.10415.pdf)  
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/sota/medical-visual-question-answering-on-vqa-rad)](https://paperswithcode.com/sota/medical-visual-question-answering-on-vqa-rad)
+
+
 We propose a generative-based model for medical visual understanding by aligning visual information from a pre-trained vision encoder with a large language model, and establish a scalable pipeline to construct a large-scale medical visual question-answering dataset, named PMC-VQA, which contains 227k VQA pairs of 149k images that cover various modalities or diseases.
 
 The dataset is available at [Huggingface](https://huggingface.co/datasets/xmcmic/PMC-VQA/)
