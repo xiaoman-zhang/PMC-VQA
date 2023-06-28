@@ -14,7 +14,7 @@ from PIL import Image
 import tqdm
     
 class Slake_Dataset(Dataset):
-    def __init__(self,  csv_path, tokenizer_path, img_dir = '/nvme/zhangruipeng/wuchaoyi/chatGPT_APIs/PMC_QA_final/PMC_QA_project/Data/Slake1.0/imgs/',img_tokens = 32, seq_length = 512,voc_size = 32000, mode = 'Train',start = 0,text_type = 'blank'):
+    def __init__(self,  csv_path, tokenizer_path, img_dir = './Data/Slake1.0/imgs/',img_tokens = 32, seq_length = 512,voc_size = 32000, mode = 'Train',start = 0,text_type = 'blank'):
         self.img_root = img_dir
         self.data = pd.read_csv(csv_path).iloc[start:]
         self.tokenizer = transformers.LlamaTokenizer.from_pretrained(tokenizer_path)
@@ -106,8 +106,3 @@ class Slake_Dataset(Dataset):
         return item
         
 
-# img_dir = '/nvme/zhangruipeng/zhangxiaoman/data/PMC_OA_papers/figures/'
-# csv_path = '/nvme/zhangruipeng/wuchaoyi/chatGPT_APIs/PMC_QA_project/Data/vqas/test_process.csv'
-# tokenizer_dir = '/nvme/zhangruipeng/wuchaoyi/chatGPT_APIs/PMC_QA_project/LLAMA/tokenizer'
-# dataset = PMC_QA_Dataset(img_dir,csv_path,tokenizer_dir)
-# print(dataset[0])

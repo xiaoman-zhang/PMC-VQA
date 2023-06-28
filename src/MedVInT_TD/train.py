@@ -15,7 +15,7 @@ import torch
 import wandb      
 @dataclass
 class ModelArguments:
-    model_path: Optional[str] = field(default="/nvme/zhangruipeng/wuchaoyi/Finetune_llama_by_wucc/Fine_Tuning_Results/Paper_7B_5_epoch_backup/checkpoint-189000/")
+    model_path: Optional[str] = field(default="./LLAMA/checkpoint-189000/")
     ## Q_former ##
     N: Optional[int] = field(default=12)
     H: Optional[int] = field(default=12)
@@ -27,8 +27,8 @@ class ModelArguments:
     checkpointing: Optional[bool] = field(default=True)
     ## Image Encoder ##
     Vision_module: Optional[str] = field(default='CLIP')
-    visual_model_path: Optional[str] = field(default='/nvme/zhangruipeng/wuchaoyi/chatGPT_APIs/PMC_QA_project/img_checkpoint/CLIP/clip-vit-base-patch32')
-    #visual_model_config: Optional[str] = field(default='/nvme/zhangruipeng/wuchaoyi/chatGPT_APIs/PMC_QA_project/img_checkpoint/RN50_fusion4.json')
+    visual_model_path: Optional[str] = field(default='./img_checkpoint/CLIP/clip-vit-base-patch32')
+    #visual_model_config: Optional[str] = field(default='./img_checkpoint/RN50_fusion4.json')
     ## Peft ##
     is_lora: Optional[bool] = field(default=True)
     peft_mode: Optional[str] = field(default="lora")
@@ -36,11 +36,11 @@ class ModelArguments:
 
 @dataclass
 class DataArguments:
-    img_dir: str = field(default='/nvme/zhangruipeng/zhangxiaoman/data/PMC_OA_papers/figures/', metadata={"help": "Path to the training data."})
+    img_dir: str = field(default='./PMC_OA_papers/figures/', metadata={"help": "Path to the training data."})
     pred_type: str = field(default='choice')
-    Train_csv_path: str = field(default='/nvme/zhangruipeng/wuchaoyi/chatGPT_APIs/PMC_QA_project/Data/final_train/final_train.csv', metadata={"help": "Path to the training data."})
-    Eval_csv_path: str = field(default='/nvme/zhangruipeng/wuchaoyi/chatGPT_APIs/PMC_QA_project/Data/final_train/final_test.csv', metadata={"help": "Path to the training data."})
-    tokenizer_path: str = field(default='/nvme/zhangruipeng/wuchaoyi/chatGPT_APIs/PMC_QA_final/PMC_QA_project/LLAMA/tokenizer', metadata={"help": "Path to the training data."})
+    Train_csv_path: str = field(default='./Data/final_train/final_train.csv', metadata={"help": "Path to the training data."})
+    Eval_csv_path: str = field(default='./Data/final_train/final_test.csv', metadata={"help": "Path to the training data."})
+    tokenizer_path: str = field(default='./LLAMA/tokenizer', metadata={"help": "Path to the training data."})
 
 @dataclass
 class TrainingArguments(transformers.TrainingArguments):
