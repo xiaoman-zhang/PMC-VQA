@@ -1,0 +1,417 @@
+img_id,img_name,question,answer
+102,xmlab102/source.jpg,Does the picture contain liver?,No
+102,xmlab102/source.jpg,Does the picture contain lung?,Yes
+102,xmlab102/source.jpg,Does the picture contain heart?,No
+102,xmlab102/source.jpg,Is the lung healthy?,No
+102,xmlab102/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Lung
+103,xmlab103/source.jpg,Does the picture contain liver?,No
+103,xmlab103/source.jpg,Does the picture contain lung?,Yes
+103,xmlab103/source.jpg,Is the lung healthy?,No
+103,xmlab103/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Lung
+105,xmlab105/source.jpg,Does the picture contain liver?,No
+105,xmlab105/source.jpg,Does the picture contain lung?,Yes
+105,xmlab105/source.jpg,Does the picture contain heart?,No
+105,xmlab105/source.jpg,Is the lung healthy?,No
+124,xmlab124/source.jpg,Are there abnormalities in this image?,Yes
+124,xmlab124/source.jpg,"Which organ is abnormal, heart or lung?",Heart
+13,xmlab13/source.jpg,Is there any abnormality in the spleen?,No
+13,xmlab13/source.jpg,Does the liver look normal?,Yes
+13,xmlab13/source.jpg,Does the picture contain liver?,Yes
+13,xmlab13/source.jpg,Does the picture contain kidney?,No
+13,xmlab13/source.jpg,Does the picture contain spleen?,Yes
+130,xmlab130/source.jpg,Are there abnormalities in this image?,Yes
+130,xmlab130/source.jpg,Does the lung look healthy?,No
+135,xmlab135/source.jpg,Are there abnormalities in this image?,Yes
+135,xmlab135/source.jpg,"Which organ is abnormal, heart or lung?",Heart
+142,xmlab142/source.jpg,Are there abnormalities in this image?,Yes
+142,xmlab142/source.jpg,"Which organ is abnormal, heart or lung?",Heart
+147,xmlab147/source.jpg,Are there abnormalities in this image?,Yes
+147,xmlab147/source.jpg,Is the lung healthy?,No
+147,xmlab147/source.jpg,"Which organ is abnormal, heart or lung?",Lung
+148,xmlab148/source.jpg,Are there abnormalities in this image?,Yes
+148,xmlab148/source.jpg,"Which organ is abnormal, heart or lung?",Heart
+152,xmlab152/source.jpg,Are there abnormalities in this image?,Yes
+152,xmlab152/source.jpg,"Which organ is abnormal, heart or lung?",Heart
+159,xmlab159/source.jpg,Does this image look normal?,No
+159,xmlab159/source.jpg,Is the lung healthy?,No
+159,xmlab159/source.jpg,"Which organ is abnormal, heart or lung?",Lung
+160,xmlab160/source.jpg,Does this image look normal?,No
+160,xmlab160/source.jpg,Is the lung healthy?,No
+160,xmlab160/source.jpg,"Which organ is abnormal, heart or lung?",Lung
+169,xmlab169/source.jpg,Does this image look normal?,No
+169,xmlab169/source.jpg,Is the lung healthy?,No
+169,xmlab169/source.jpg,"Which organ is abnormal, heart or lung?",Lung
+173,xmlab173/source.jpg,Is the lung healthy?,No
+173,xmlab173/source.jpg,Are there abnormalities in this image?,Yes
+173,xmlab173/source.jpg,"Which organ is abnormal, heart or lung?",Lung
+18,xmlab18/source.jpg,Does the picture contain liver?,Yes
+18,xmlab18/source.jpg,Does the picture contain kidney?,Yes
+18,xmlab18/source.jpg,Does the picture contain spleen?,Yes
+18,xmlab18/source.jpg,Does the liver look normal ?,Yes
+18,xmlab18/source.jpg,Does the kidney look abnormal?,No
+18,xmlab18/source.jpg,Do the spleen look abnormal?,No
+185,xmlab185/source.jpg,Does this image look abnormal?,Yes
+185,xmlab185/source.jpg,Is the lung healthy?,No
+185,xmlab185/source.jpg,Are there abnormalities in this image?,Yes
+185,xmlab185/source.jpg,"Which organ is abnormal, heart or lung?",Lung
+208,xmlab208/source.jpg,Does the picture contain liver?,Yes
+208,xmlab208/source.jpg,Does the picture contain kidney?,Yes
+208,xmlab208/source.jpg,Does the picture contain spleen?,No
+208,xmlab208/source.jpg,Does the picture contain lung?,No
+208,xmlab208/source.jpg,Does the picture contain heart?,No
+208,xmlab208/source.jpg,Is the liver healthy?,Yes
+208,xmlab208/source.jpg,"Which is bigger in this image, kidney or liver?",Liver
+219,xmlab219/source.jpg,Does this image look normal?,Yes
+219,xmlab219/source.jpg,Does the picture contain liver?,Yes
+219,xmlab219/source.jpg,Does the picture contain kidney?,No
+219,xmlab219/source.jpg,Does the picture contain spleen?,No
+219,xmlab219/source.jpg,Does the picture contain lung?,Yes
+219,xmlab219/source.jpg,Does the picture contain heart?,Yes
+219,xmlab219/source.jpg,Is the liver healthy?,Yes
+219,xmlab219/source.jpg,"Which is the biggest in this image, lung,heart or liver?",Lung
+224,xmlab224/source.jpg,Does the picture contain liver?,Yes
+224,xmlab224/source.jpg,Does the picture contain kidney?,No
+224,xmlab224/source.jpg,Does the picture contain spleen?,Yes
+224,xmlab224/source.jpg,Does the picture contain lung?,Yes
+224,xmlab224/source.jpg,Does the picture contain heart?,No
+224,xmlab224/source.jpg,"Which is the biggest in this image, spleen,lung, or liver?",Liver
+234,xmlab234/source.jpg,Does the picture contain liver?,Yes
+234,xmlab234/source.jpg,Does the picture contain kidney?,No
+234,xmlab234/source.jpg,Does the picture contain spleen?,Yes
+234,xmlab234/source.jpg,"Which is bigger in this image, kidney or spleen?",Liver
+234,xmlab234/source.jpg,Does this image look normal?,No
+234,xmlab234/source.jpg,Does the picture contain lung?,No
+234,xmlab234/source.jpg,Does the picture contain heart?,No
+235,xmlab235/source.jpg,Does the picture contain liver?,Yes
+235,xmlab235/source.jpg,Does the picture contain kidney?,No
+235,xmlab235/source.jpg,Does the picture contain spleen?,Yes
+235,xmlab235/source.jpg,Does this image look normal?,No
+235,xmlab235/source.jpg,Does the picture contain lung?,Yes
+235,xmlab235/source.jpg,Does the picture contain heart?,No
+235,xmlab235/source.jpg,"Which is bigger in this image, liver or spleen?",Spleen
+24,xmlab24/source.jpg,Does the picture contain liver?,Yes
+24,xmlab24/source.jpg,Does the picture contain kidney?,No
+24,xmlab24/source.jpg,Does the picture contain spleen?,Yes
+25,xmlab25/source.jpg,Does the picture contain liver?,No
+25,xmlab25/source.jpg,Does the picture contain kidney?,No
+25,xmlab25/source.jpg,Does the picture contain spleen?,No
+250,xmlab250/source.jpg,Does this image look normal?,No
+250,xmlab250/source.jpg,Does the picture contain liver?,Yes
+250,xmlab250/source.jpg,Does the picture contain kidney?,No
+250,xmlab250/source.jpg,Does the picture contain spleen?,No
+250,xmlab250/source.jpg,Does the picture contain lung?,Yes
+250,xmlab250/source.jpg,Does the picture contain heart?,Yes
+250,xmlab250/source.jpg,"Which is bigger in this image, liver or heart?",Liver
+252,xmlab252/source.jpg,Does this image look normal?,No
+252,xmlab252/source.jpg,Does the picture contain liver?,Yes
+252,xmlab252/source.jpg,Does the picture contain kidney?,Yes
+252,xmlab252/source.jpg,Does the picture contain spleen?,Yes
+252,xmlab252/source.jpg,Does the picture contain lung?,No
+252,xmlab252/source.jpg,Does the picture contain heart?,No
+252,xmlab252/source.jpg,"Which is bigger in this image, kidney or spleen?",Spleen
+253,xmlab253/source.jpg,Does this image look normal?,Yes
+253,xmlab253/source.jpg,Does the picture contain liver?,Yes
+253,xmlab253/source.jpg,Does the picture contain kidney?,No
+253,xmlab253/source.jpg,Does the picture contain spleen?,No
+253,xmlab253/source.jpg,Does the picture contain lung?,Yes
+253,xmlab253/source.jpg,Does the picture contain heart?,No
+264,xmlab264/source.jpg,Does the picture contain liver?,No
+264,xmlab264/source.jpg,Does the picture contain kidney?,Yes
+264,xmlab264/source.jpg,Does the picture contain spleen?,No
+264,xmlab264/source.jpg,Does the picture contain lung?,No
+264,xmlab264/source.jpg,Does the picture contain heart?,No
+269,xmlab269/source.jpg,Does the picture contain liver?,Yes
+269,xmlab269/source.jpg,Does the picture contain kidney?,No
+269,xmlab269/source.jpg,Does the picture contain spleen?,Yes
+269,xmlab269/source.jpg,Does the picture contain lung?,Yes
+269,xmlab269/source.jpg,Does the picture contain heart?,No
+274,xmlab274/source.jpg,Does the picture contain liver?,Yes
+274,xmlab274/source.jpg,Does the picture contain kidney?,No
+274,xmlab274/source.jpg,Does the picture contain spleen?,Yes
+274,xmlab274/source.jpg,Does the picture contain lung?,Yes
+274,xmlab274/source.jpg,Does the picture contain heart?,No
+274,xmlab274/source.jpg,"Which is bigger in this image, liver or spleen?",Liver
+299,xmlab299/source.jpg,"Which side of lung is abnormal in this image,left or right?",Right
+299,xmlab299/source.jpg,Is/Are there abnormalities in the patient's right lung?,Yes
+299,xmlab299/source.jpg,Is this image normal?,No
+299,xmlab299/source.jpg,Can pneumothorax be observed on the lower left lung in this picture?,No
+304,xmlab304/source.jpg,Is this a transverse plane?,No
+304,xmlab304/source.jpg,Is this a study of the chest?,Yes
+304,xmlab304/source.jpg,Is/Are there abnormalities in the patient's right lung?,Yes
+304,xmlab304/source.jpg,Can atelectasis be observed on the upper right lung in this picture?,No
+311,xmlab311/source.jpg,Is this image taken via X-Ray?,Yes
+311,xmlab311/source.jpg,Is this a transverse plane?,No
+311,xmlab311/source.jpg,"Which side of lung is abnormal in this image,left or right?",Left
+311,xmlab311/source.jpg,Is this a study of the chest?,Yes
+311,xmlab311/source.jpg,Is this a study of the pelvic cavity?,No
+311,xmlab311/source.jpg,Is the lung abnormal?,Yes
+311,xmlab311/source.jpg,Can mass be observed on the lower left lung in this picture?,Yes
+312,xmlab312/source.jpg,Is this a coronal section?,Yes
+312,xmlab312/source.jpg,Is this a study of the neck?,No
+312,xmlab312/source.jpg,Does the patient have any abnormalities?,Yes
+312,xmlab312/source.jpg,Is this image normal?,No
+312,xmlab312/source.jpg,Can atelectasis be observed on the lower left lung in this picture?,Yes
+314,xmlab314/source.jpg,Is this image taken via X-Ray?,Yes
+314,xmlab314/source.jpg,"Which side of lung is abnormal in this image,left or right?",Right
+314,xmlab314/source.jpg,Does the lung look abnormal?,Yes
+314,xmlab314/source.jpg,Can pneumonia be observed on the right lung in this picture?,Yes
+320,xmlab320/source.jpg,"Which plane is the image scanned, transverse plane or coronal plane?",Coronal Plane
+320,xmlab320/source.jpg,Do the organs in the image exist in the abdomen?,No
+320,xmlab320/source.jpg,Is this image normal?,No
+320,xmlab320/source.jpg,Can cardiomegaly be observed on the heart in this picture?,Yes
+329,xmlab329/source.jpg,Is this sagittal plane?,No
+329,xmlab329/source.jpg,Does the lung look abnormal?,Yes
+329,xmlab329/source.jpg,Can pulmonary infiltration be observed on the upper right lung in this picture?,No
+338,xmlab338/source.jpg,"Which plane is the image scanned, transverse plane or coronal plane?",Coronal Plane
+338,xmlab338/source.jpg,Is the lung normal appearing?,No
+338,xmlab338/source.jpg,Is this image normal?,No
+338,xmlab338/source.jpg,Can nodule be observed on the lower left lung in this picture?,Yes
+344,xmlab344/source.jpg,"Which plane is the image scanned, transverse plane or coronal plane?",Coronal Plane
+344,xmlab344/source.jpg,Does the patient have any abnormalities?,Yes
+344,xmlab344/source.jpg,Is the lung healthy?,No
+344,xmlab344/source.jpg,Can nodule be observed on the upper right lung in this picture?,Yes
+350,xmlab350/source.jpg,Is this an MRI scan?,No
+350,xmlab350/source.jpg,Is this a coronal plane?,Yes
+350,xmlab350/source.jpg,Do the organs in the image exist in the chest?,Yes
+350,xmlab350/source.jpg,Is the lung normal appearing?,No
+350,xmlab350/source.jpg,Is/Are there abnormalities in the patient's left lung?,Yes
+350,xmlab350/source.jpg,Can pneumothorax be observed on the lower right lung in this picture?,No
+357,xmlab357/source.jpg,Is this a X-Ray?,Yes
+357,xmlab357/source.jpg,Do the organs in the image exist in the abdomen?,No
+357,xmlab357/source.jpg,Are there abnormalities in this image?,Yes
+357,xmlab357/source.jpg,Is the lung healthy?,No
+357,xmlab357/source.jpg,Can pneumothorax be observed on the lower left lung in this picture?,Yes
+361,xmlab361/source.jpg,Is this image taken via X-Ray?,Yes
+361,xmlab361/source.jpg,Is the lung healthy?,No
+361,xmlab361/source.jpg,Is the lung abnormal?,Yes
+361,xmlab361/source.jpg,Can nodule be observed on the lower right lung in this picture?,No
+367,xmlab367/source.jpg,Is this image taken via X-Ray?,Yes
+367,xmlab367/source.jpg,"Which side of lung is abnormal in this image,left or right?",Left
+367,xmlab367/source.jpg,Are there abnormalities in this image?,Yes
+367,xmlab367/source.jpg,Is the lung healthy?,No
+367,xmlab367/source.jpg,Can pneumonia be observed on the upper right lung in this picture?,No
+374,xmlab374/source.jpg,Is this a coronal plane?,Yes
+374,xmlab374/source.jpg,Is this a study of the neck?,No
+374,xmlab374/source.jpg,Does the lung look abnormal?,Yes
+374,xmlab374/source.jpg,Are there abnormalities in this image?,Yes
+374,xmlab374/source.jpg,Can pneumonia be observed on the upper right lung in this picture?,Yes
+375,xmlab375/source.jpg,Is this a transverse section?,No
+375,xmlab375/source.jpg,Is this a study of the chest?,Yes
+375,xmlab375/source.jpg,Is the lung normal appearing?,No
+375,xmlab375/source.jpg,Can pneumonia be observed on the lower right lung in this picture?,Yes
+378,xmlab378/source.jpg,Is this image taken via CT?,No
+378,xmlab378/source.jpg,Is this a transverse plane?,No
+378,xmlab378/source.jpg,Is/Are there abnormalities in the patient's left lung?,Yes
+378,xmlab378/source.jpg,Can infiltration be observed on the lower left lung in this picture?,Yes
+385,xmlab385/source.jpg,Is this image taken via X-Ray?,Yes
+385,xmlab385/source.jpg,Is this a coronal section?,Yes
+385,xmlab385/source.jpg,Is this a study of the head?,No
+385,xmlab385/source.jpg,Does the patient have any abnormalities?,Yes
+385,xmlab385/source.jpg,Does the lung look abnormal?,Yes
+385,xmlab385/source.jpg,Can effusion be observed on the lower left lung in this picture?,Yes
+386,xmlab386/source.jpg,Do the organs in the image exist in the chest?,Yes
+386,xmlab386/source.jpg,Is this a study of the abdomen?,No
+386,xmlab386/source.jpg,Is this a study of the pelvic cavity?,No
+386,xmlab386/source.jpg,Is this image normal?,No
+386,xmlab386/source.jpg,Can effusion be observed on the lower left lung in this picture?,Yes
+401,xmlab401/source.jpg,"Which type of modality is shown about this image, MRI, CT or X-Ray?",CT
+401,xmlab401/source.jpg,Is this sagittal plane?,No
+401,xmlab401/source.jpg,Do the organs in the image exist in the head?,Yes
+401,xmlab401/source.jpg,Is this a study of the abdomen?,No
+401,xmlab401/source.jpg,Does the picture contain spleen?,No
+401,xmlab401/source.jpg,Does the temporal lobe appear in this image?,Yes
+401,xmlab401/source.jpg,Are there some organs controlling heartbeat and breathing in this image?,Yes
+401,xmlab401/source.jpg,Do any of the organs in the picture belong to the respiratory system?,No
+405,xmlab405/source.jpg,Is this a CT?,Yes
+405,xmlab405/source.jpg,Is this sagittal plane?,No
+405,xmlab405/source.jpg,Does the ears exist in this picture?,Yes
+405,xmlab405/source.jpg,Does the picture contain bladder?,No
+405,xmlab405/source.jpg,Does the picture contain the organ which has the effect of storing urine?,No
+405,xmlab405/source.jpg,Do any of the organs in the picture belong to the digestive system?,No
+407,xmlab407/source.jpg,Do the organs in the image exist in the head?,Yes
+407,xmlab407/source.jpg,Is this a study of the abdomen?,No
+407,xmlab407/source.jpg,Does the picture contain mandible?,Yes
+407,xmlab407/source.jpg,Does the parotid appear in the image?,Yes
+407,xmlab407/source.jpg,Are there organs in the picture that can digest food?,No
+407,xmlab407/source.jpg,Do any of the organs in the picture belong to the circulatory system?,No
+427,xmlab427/source.jpg,Do the organs in the image exist in the head?,No
+427,xmlab427/source.jpg,Is there an esophagus in this image?,No
+427,xmlab427/source.jpg,Does the trachea exist in this picture?,No
+427,xmlab427/source.jpg,Are there organs in the picture that can deliver food?,Yes
+427,xmlab427/source.jpg,Does the picture contain the organ which has the effect of gas delivery?,Yes
+428,xmlab428/source.jpg,Is this a CT?,Yes
+428,xmlab428/source.jpg,Does the ears exist in this picture?,No
+428,xmlab428/source.jpg,Is there small bowel in this image?,No
+428,xmlab428/source.jpg,Do any of the organs in the picture belong to the nervous system?,Yes
+428,xmlab428/source.jpg,Does the picture contain the organ that could be used for detoxicating?,No
+429,xmlab429/source.jpg,Is this an MRI scan?,No
+429,xmlab429/source.jpg,Is this a transverse section?,Yes
+429,xmlab429/source.jpg,Does the picture contain spinal cord?,Yes
+429,xmlab429/source.jpg,Are/Is there kidneys in the picture?,No
+429,xmlab429/source.jpg,Does the picture contain the organ which has the effect of discharging waste?,No
+429,xmlab429/source.jpg,Do any of the organs in the picture belong to the nervous system?,Yes
+436,xmlab436/source.jpg,Is this a CT scan?,No
+436,xmlab436/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T2
+436,xmlab436/source.jpg,Do the organs in the image exist in the head?,Yes
+436,xmlab436/source.jpg,"Which hemisphere is abnormal,left or right?",Right
+442,xmlab442/source.jpg,Is this an MRI image with T1 weighted?,No
+442,xmlab442/source.jpg,Is this a coronal section?,No
+442,xmlab442/source.jpg,Is the brain healthy?,No
+447,xmlab447/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T2
+447,xmlab447/source.jpg,Is this sagittal plane?,No
+447,xmlab447/source.jpg,"Which hemisphere is abnormal,left or right?",Left
+447,xmlab447/source.jpg,Is the tumor enhancing?,Yes
+468,xmlab468/source.jpg,Is this an MRI image with T1 weighted?,No
+468,xmlab468/source.jpg,Do the organs in the image exist in the chest?,No
+468,xmlab468/source.jpg,Is this a study of the head?,Yes
+468,xmlab468/source.jpg,Is the brain abnormal?,Yes
+469,xmlab469/source.jpg,Is this a T1 weighted or T2 weighted MRI image?,T2
+469,xmlab469/source.jpg,Is this a coronal section?,No
+469,xmlab469/source.jpg,Do the organs in the image exist in the abdomen?,No
+469,xmlab469/source.jpg,Is this a study of the head?,Yes
+469,xmlab469/source.jpg,Is there evidence of a brain edema?,Yes
+469,xmlab469/source.jpg,Is the abnormality hyperdense or hypodense?,Hyperdense
+471,xmlab471/source.jpg,Is this a T1 weighted or T2 weighted MRI image?,T2
+471,xmlab471/source.jpg,Is this a coronal section?,No
+471,xmlab471/source.jpg,Is this image normal?,No
+473,xmlab473/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T2
+473,xmlab473/source.jpg,Is this a transverse section?,Yes
+473,xmlab473/source.jpg,Is this a study of the neck?,No
+473,xmlab473/source.jpg,Is the abnormality hyperdense or hypodense?,Hyperdense
+474,xmlab474/source.jpg,Is this a T1 weighted or T2 weighted MRI image?,T2
+474,xmlab474/source.jpg,Is this a coronal section?,No
+474,xmlab474/source.jpg,Do the organs in the image exist in the abdomen?,No
+474,xmlab474/source.jpg,Is the brain abnormal?,Yes
+483,xmlab483/source.jpg,Is this image taken via MRI?,Yes
+483,xmlab483/source.jpg,"Which lobe is abnormal,left or right?",Right
+483,xmlab483/source.jpg,Is this a study of the head?,Yes
+49,xmlab49/source.jpg,Does the picture contain brian?,Yes
+49,xmlab49/source.jpg,Does the brain look abnormal?,Yes
+495,xmlab495/source.jpg,Is this a X-Ray?,No
+495,xmlab495/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T1
+495,xmlab495/source.jpg,Is this a coronal plane?,No
+495,xmlab495/source.jpg,Is/Are there abnormalities in the patient's left brain lobe?,No
+498,xmlab498/source.jpg,Is this a CT scan?,No
+498,xmlab498/source.jpg,Is this sagittal plane?,No
+498,xmlab498/source.jpg,Do the organs in the image exist in the pelvic cavity?,No
+498,xmlab498/source.jpg,Is the brain enhancing tumor hyperdense or hypodense?,Hyperdense
+506,xmlab506/source.jpg,Is this image taken via CT?,No
+506,xmlab506/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T1
+506,xmlab506/source.jpg,Is this a study of the chest?,No
+506,xmlab506/source.jpg,Does the patient have brain tumor?,Yes
+508,xmlab508/source.jpg,Is this a study of the abdomen?,No
+513,xmlab513/source.jpg,Is this a CT?,No
+513,xmlab513/source.jpg,Is this an MRI image with T2 weighted?,No
+513,xmlab513/source.jpg,Do the organs in the image exist in the head?,Yes
+525,xmlab525/source.jpg,Is this an MRI image with T2 weighted?,Yes
+525,xmlab525/source.jpg,Do the organs in the image exist in the head?,Yes
+525,xmlab525/source.jpg,Is this a study of the head?,Yes
+529,xmlab529/source.jpg,Is this an MRI scan?,Yes
+529,xmlab529/source.jpg,Is this a coronal section?,No
+529,xmlab529/source.jpg,Do the organs in the image exist in the neck?,No
+529,xmlab529/source.jpg,Is the brain normal appearing?,No
+53,xmlab53/source.jpg,Does the picture contain brian?,Yes
+53,xmlab53/source.jpg,Does the brain look abnormal?,No
+532,xmlab532/source.jpg,Is this image taken via MRI?,Yes
+532,xmlab532/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T2
+532,xmlab532/source.jpg,Is this a transverse section?,Yes
+538,xmlab538/source.jpg,Does the stomach appear in the image?,No
+538,xmlab538/source.jpg,Does the picture contain spleen?,Yes
+538,xmlab538/source.jpg,"Which is smaller in this image,liver or right kidney?",Right Kidney
+538,xmlab538/source.jpg,Does the picture contain the organ which has the effect of discharging waste?,Yes
+538,xmlab538/source.jpg,Do any of the organs in the picture belong to the respiratory system?,No
+543,xmlab543/source.jpg,Is this a study of the abdomen?,Yes
+543,xmlab543/source.jpg,Does the trachea exist in this picture?,No
+543,xmlab543/source.jpg,Does the picture contain bladder?,No
+543,xmlab543/source.jpg,"Which is smaller in this image,liver or lung?",Lung
+543,xmlab543/source.jpg,Does the picture contain the organ that could be used for secreting enzymes?,No
+543,xmlab543/source.jpg,Do any of the organs in the picture belong to the digestive system?,Yes
+548,xmlab548/source.jpg,Does the larynx appear in the image?,No
+548,xmlab548/source.jpg,Does the lung exist in this picture?,Yes
+548,xmlab548/source.jpg,"Which is smaller in this image,colon or liver?",Colon
+548,xmlab548/source.jpg,Does the picture contain the organ which has the effect of detoxicating?,Yes
+548,xmlab548/source.jpg,Does the picture contain the organ which has the effect of adjusting water and osmotic pressure balance?,Yes
+554,xmlab554/source.jpg,Does the picture contain colon?,No
+554,xmlab554/source.jpg,Does the picture contain brain stem?,No
+554,xmlab554/source.jpg,"Which is smaller in this image,kidney or small bowel?",Kidney
+554,xmlab554/source.jpg,Are there some organs controlling heartbeat and breathing in this image?,No
+554,xmlab554/source.jpg,Does the picture contain the organ which has the effect of digesting food?,Yes
+557,xmlab557/source.jpg,Does the rectum appear in this picture?,No
+557,xmlab557/source.jpg,Does the picture contain heart?,No
+557,xmlab557/source.jpg,"Which is smaller in this image, liver or right kidney?",Liver
+557,xmlab557/source.jpg,Does the picture contain the organ which has the effect of digesting food?,Yes
+557,xmlab557/source.jpg,Does the picture contain the organ that could be used for secreting enzymes?,Yes
+561,xmlab561/source.jpg,Is this a study of the abdomen?,Yes
+561,xmlab561/source.jpg,Does the picture contain colon?,No
+561,xmlab561/source.jpg,Does the humerus head exist in this picture?,No
+561,xmlab561/source.jpg,"Which is smaller in this image, spleen or kidney?",Spleen
+561,xmlab561/source.jpg,Are there organs in the picture that can adjust water and osmotic pressure balance?,Yes
+561,xmlab561/source.jpg,Are there any organs used for breathing in this image?,No
+573,xmlab573/source.jpg,Is this a transverse section?,Yes
+573,xmlab573/source.jpg,Does the picture contain eyes?,No
+573,xmlab573/source.jpg,Is there femoral head in this picture?,No
+573,xmlab573/source.jpg,"Which is bigger in this image,liver or stomach?",Liver
+573,xmlab573/source.jpg,Does the picture contain the organ that could receive sound?,No
+573,xmlab573/source.jpg,Does the picture contain the organ which has the effect of gas delivery?,No
+578,xmlab578/source.jpg,Does the esophagus exist in this picture?,Yes
+578,xmlab578/source.jpg,Does the stomach appear in the image?,No
+578,xmlab578/source.jpg,"Which is the biggest in this image, spleen, heart or liver?",Liver
+578,xmlab578/source.jpg,Are there organs in the picture that can digest food?,No
+58,xmlab58/source.jpg,Does the picture contain brian?,Yes
+58,xmlab58/source.jpg,Is the brain healthy?,No
+580,xmlab580/source.jpg,"Where is the heart in this image,left,top or upper left?",Top
+580,xmlab580/source.jpg,Is this a study of the abdomen?,Yes
+580,xmlab580/source.jpg,Does the picture contain heart?,Yes
+580,xmlab580/source.jpg,Does the picture contain stomach?,No
+580,xmlab580/source.jpg,"Which is smaller in this image, esophagus or liver?",Esophagus
+580,xmlab580/source.jpg,Does the picture contain the organ which has the effect of gas delivery?,No
+580,xmlab580/source.jpg,Does the picture contain the organ that could promote blood flow?,Yes
+586,xmlab586/source.jpg,Does the picture contain spinal cord?,Yes
+586,xmlab586/source.jpg,Does the rectum appear in this picture?,No
+586,xmlab586/source.jpg,"Which is smaller in this image,heart or esophagus?",Esophagus
+586,xmlab586/source.jpg,Does the picture contain the organ that could receive sound?,No
+586,xmlab586/source.jpg,Does the picture contain the organ which has the effect of sensing light?,No
+604,xmlab604/source.jpg,Does the picture contain bladder?,Yes
+604,xmlab604/source.jpg,Does the parotid appear in the image?,No
+604,xmlab604/source.jpg,"Which is smaller in this image, bladder or rectum?",Rectum
+604,xmlab604/source.jpg,Does the picture contain the organ which has the effect of discharging waste?,No
+604,xmlab604/source.jpg,Does the picture contain the organ which has the effect of excreting feces?,Yes
+605,xmlab605/source.jpg,Is this a coronal section?,No
+605,xmlab605/source.jpg,Does the picture contain rectum?,Yes
+605,xmlab605/source.jpg,Does the picture contain bladder?,Yes
+605,xmlab605/source.jpg,Does the picture contain the organ which has the effect of excreting feces?,Yes
+605,xmlab605/source.jpg,Does the picture contain the organ which has the effect of detoxicating?,No
+622,xmlab622/source.jpg,Is this a study of the pelvic cavity?,Yes
+622,xmlab622/source.jpg,Does the picture contain colon?,Yes
+622,xmlab622/source.jpg,Are there organs in the picture that can deliver food?,No
+628,xmlab628/source.jpg,Does the rectum exist in this picture?,No
+628,xmlab628/source.jpg,"Which is bigger in this image, small bowel or colon?",Small Bowel
+628,xmlab628/source.jpg,Do any of the organs in the picture belong to the urinary system?,No
+629,xmlab629/source.jpg,Is there colon in the image?,Yes
+629,xmlab629/source.jpg,"Which is smaller in this image, colon or small bowel?",Colon
+629,xmlab629/source.jpg,Do any of the organs in the picture belong to the digestive system?,Yes
+634,xmlab634/source.jpg,Is this a coronal plane?,No
+634,xmlab634/source.jpg,Is there spinal cord in this picture?,Yes
+634,xmlab634/source.jpg,Are there organs in the picture that can promote blood flow?,No
+71,xmlab71/source.jpg,Does the picture contain brian?,Yes
+71,xmlab71/source.jpg,Is the brain healthy?,Yes
+77,xmlab77/source.jpg,Does the picture contain brian?,Yes
+77,xmlab77/source.jpg,Is the brain healthy?,Yes
+82,xmlab82/source.jpg,Does the picture contain liver?,No
+82,xmlab82/source.jpg,Does the picture contain lung?,Yes
+82,xmlab82/source.jpg,Does the picture contain heart?,Yes
+82,xmlab82/source.jpg,Is the lung healthy?,Yes
+82,xmlab82/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Lung
+85,xmlab85/source.jpg,Does the picture contain liver?,Yes
+85,xmlab85/source.jpg,Does the picture contain lung?,Yes
+85,xmlab85/source.jpg,Does the picture contain heart?,No
+85,xmlab85/source.jpg,Does the lung look healthy?,Yes
+85,xmlab85/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Liver
+90,xmlab90/source.jpg,Does the picture contain liver?,No
+90,xmlab90/source.jpg,Does the picture contain lung?,Yes
+90,xmlab90/source.jpg,Does the picture contain heart?,Yes
+90,xmlab90/source.jpg,Is the lung healthy?,Yes
+90,xmlab90/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Lung
+93,xmlab93/source.jpg,Does the picture contain liver?,No
+93,xmlab93/source.jpg,Does the picture contain lung?,No
+93,xmlab93/source.jpg,Does the picture contain heart?,No
