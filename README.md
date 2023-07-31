@@ -11,7 +11,10 @@ We propose a generative-based model for medical visual understanding by aligning
 
 The dataset is available at [Huggingface](https://huggingface.co/datasets/xmcmic/PMC-VQA/)
 
-The model checkpoints is available at [MedVInT-TE](https://huggingface.co/xmcmic/MedVInT-TE/) and [MedVInT-TD](https://huggingface.co/xmcmic/MedVInT-TD/).
+The model checkpoints are available at [MedVInT-TE](https://huggingface.co/xmcmic/MedVInT-TE/) and [MedVInT-TD](https://huggingface.co/xmcmic/MedVInT-TD/).
+**The previous checkpoint of MedVInT-TD was mistakenly uploaded. 
+We have rectified the issue and updated the model's checkpoint on July 31. 
+Now, you can access the correct and improved version of the model.**
 
 
 - [PMC-VQA](#pmc-vqa)
