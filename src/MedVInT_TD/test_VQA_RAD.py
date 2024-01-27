@@ -120,7 +120,22 @@ def main():
     ckp = model_args.ckp + '/pytorch_model.bin'
     print(ckp)
     model = QA_model(model_args)
-    model.load_state_dict(torch.load(ckp, map_location='cpu'))
+    ckpt = torch.load(ckp, map_location='cpu')
+    # if you have problem in loading, it may cause by the peft package updating and use the following code:
+    # for name in list(ckpt.keys()):
+    #     if 'self_attn.q_proj.weight' in name and "vision_model" not in name:
+    #         new_name = name.replace('self_attn.q_proj.weight', 'self_attn.q_proj.base_layer.weight')
+    #         ckpt[new_name] = ckpt.pop(name)
+    #     if 'self_attn.v_proj.weight' in name and "vision_model" not in name:
+    #         new_name = name.replace('self_attn.v_proj.weight', 'self_attn.v_proj.base_layer.weight')
+    #         ckpt[new_name] = ckpt.pop(name)
+    #     if 'lora_A' in name:
+    #         new_name = name.replace('lora_A', 'lora_A.default')
+    #         ckpt[new_name] = ckpt.pop(name)
+    #     if 'lora_B' in name:
+    #         new_name = name.replace('lora_B', 'lora_B.default')
+    #         ckpt[new_name] = ckpt.pop(name)
+    model.load_state_dict(ckpt)
     
     ACC = 0
     cc = 0
